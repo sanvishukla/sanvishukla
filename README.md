@@ -39,10 +39,9 @@ I’m always open to collaborating on interesting problems — especially ones t
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanvishukla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sanvishukla&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanvishukla&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=sanvishukla&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sanvishukla&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanvishukla&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-![](https://komarev.com/ghpvc/?username=sanvishukla&color=7aa2f7&style=flat&label=profile+views)
+
