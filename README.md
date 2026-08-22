@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h3><i>S A N V I &nbsp; S H U K L A</i></h3>
+# <i>S A N V I &nbsp; S H U K L A</i>
 
 
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<h3>✦ &nbsp; _a b o u t &nbsp; m e_</h3>
+## ✦ &nbsp; _a b o u t &nbsp; m e_
 
 <br>
 
@@ -24,7 +24,7 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 
 <br><br>
 
-<h3>✦ &nbsp; _e x p e r i e n c e &nbsp; & &nbsp; i m p a c t_</h3>
+## ✦ &nbsp; _e x p e r i e n c e &nbsp; & &nbsp; i m p a c t_
 
 <br>
 
@@ -48,7 +48,7 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 
 <br><br>
 
-<h3>✦ &nbsp; _t e c h &nbsp; s t a c k_</h3>
+## ✦ &nbsp; _t e c h &nbsp; s t a c k_
 
 
 
@@ -97,7 +97,7 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 
 <br><br>
 
-<h3>✦ &nbsp; _g i t h u b &nbsp; s t a t s_</h3>
+## ✦ &nbsp; _g i t h u b &nbsp; s t a t s_
 
 <br>
 
