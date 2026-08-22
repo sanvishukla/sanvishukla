@@ -54,9 +54,7 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 
 ## ✦ &nbsp; _t e c h &nbsp; s t a c k_
 
-<br>
 
-<i>A curated tech stack for AI and software development.</i>
 
 <br><br>
 
