@@ -4,11 +4,7 @@
 
 <h3><i>S A N V I &nbsp; S H U K L A</i></h3>
 
-<br>
 
-<i>A I &nbsp; / &nbsp; M L</i>
-
-<br>
 
 [Portfolio](https://sanvishukla.github.io/Sanvi-Shukla/) &nbsp; | &nbsp; [LinkedIn](https://linkedin.com/in/sanvishukla) &nbsp; | &nbsp; [Email](mailto:sanvishukla@gmail.com)
 
