@@ -107,9 +107,9 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&icon_color=355E3B&ring=E6C2BF&fire=E6C2BF" height="150" />
-<img src="https://github-readme-stats.shion.dev/api?username=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&icon_color=355E3B&show_icons=true" height="150" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&layout=compact" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&icon_color=355E3B&ring=E6C2BF&fire=E6C2BF&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=2C3E50&v=1" height="150" />
+<img src="https://github-readme-stats.shion.dev/api?username=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&icon_color=355E3B&show_icons=true&v=1" height="150" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanvishukla&theme=transparent&hide_border=true&title_color=D4AF37&text_color=2C3E50&layout=compact&v=1" height="150" />
 
 <br><br>
 
