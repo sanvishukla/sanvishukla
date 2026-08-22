@@ -26,7 +26,7 @@ My goal is to build intelligent, accessible, and highly impactful AI systems, an
 <i>Research Intern working on transformer models and reinforcement learning (RL).</i>
 
 **Amazon ML Summer School**<br>
-<i>Selected scholar for 2024 & 2025, studying advanced ML methodologies.</i>
+<i>Selected as mentee for 2024 & 2025, studying advanced ML methodologies.</i>
 
 ## ✦ &nbsp; _t e c h &nbsp; s t a c k_
 
